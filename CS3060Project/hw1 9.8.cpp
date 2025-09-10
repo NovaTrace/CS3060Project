@@ -43,7 +43,9 @@ int main() {
 		}
 	}
 
+	// Output and cleanup
 	cout << mean;
+	delete[] ptrArray;
 
 	return 0;
 }

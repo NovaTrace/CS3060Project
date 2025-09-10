@@ -46,5 +46,6 @@ int main() {
         cout << *(ptrArray + (size / 2));
     }
 
+    delete[] ptrArray;
     return 0;
 }
