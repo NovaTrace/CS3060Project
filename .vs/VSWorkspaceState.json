@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CS3060Project"
+    "\\CS3060Project",
+    "\\CS3060Project\\Debug",
+    "\\Sandbox"
   ],
-  "SelectedNode": "\\CS3060Project\\hw1 9.8.cpp",
+  "SelectedNode": "\\CS3060.sln",
   "PreviewInSolutionExplorer": false
 }
