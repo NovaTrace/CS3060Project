@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project.vcxproj|solutionrelative:hw1 9.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project.vcxproj|solutionrelative:hw1 9.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw1 9.8.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.8.cpp",
+              "RelativeDocumentMoniker": "hw1 9.8.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.8.cpp",
+              "RelativeToolTip": "hw1 9.8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T11:44:48.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hw1 9.9.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.9.cpp",
+              "RelativeDocumentMoniker": "hw1 9.9.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060Project\\CS3060Project\\hw1 9.9.cpp*",
+              "RelativeToolTip": "hw1 9.9.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T10:56:39.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
