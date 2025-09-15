@@ -46,12 +46,12 @@ int main() {
 
     if (size % 2 == 0) {
         
-        cout << "Median: " << double(*(ptrArray + (size / 2)) + *(ptrArray - 1 + (size / 2))) / 2;
+        cout << "Median: " << double(*(ptrArray + (size / 2)) + *(ptrArray + (size / 2) - 1 )) / 2 << endl;
     }
 
     else {
 
-        cout << "Median: " << * (ptrArray + (size / 2));
+        cout << "Median: " << * (ptrArray + (size / 2)) << endl;
     }
 
     delete[] ptrArray;
@@ -63,7 +63,7 @@ void displayArray(int* arr, int size) {
 
     for (int i = 0; i < size; i++) {
 
-        cout << *(arr + i);
+        cout << *(arr + i) << " ";
     }
     cout << "\n";
 }

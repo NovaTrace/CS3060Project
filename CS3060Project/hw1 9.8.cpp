@@ -23,7 +23,7 @@ int main() {
 	}
 
 	// Finding Mean
-	int mean = -1;
+	int mode = -1;
 	int maxCounter = 1;
 	for (int i = 0; i < size; i++) {
 
@@ -39,12 +39,12 @@ int main() {
 		if (maxCounter < counter) {
 
 			maxCounter = counter;
-			mean = *(ptrArray + i);
+			mode = *(ptrArray + i);
 		}
 	}
 
 	// Output and cleanup
-	cout << mean;
+	cout << "Mode of input is: " << mode << endl;
 	delete[] ptrArray;
 
 	return 0;
