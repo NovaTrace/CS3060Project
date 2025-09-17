@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw1 9.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:CS3060Project\\hw1 9.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\password checker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\password checker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hw1 9.9.cpp",
-              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw1 9.9.cpp",
-              "RelativeDocumentMoniker": "CS3060Project\\hw1 9.9.cpp",
-              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw1 9.9.cpp*",
-              "RelativeToolTip": "CS3060Project\\hw1 9.9.cpp*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Title": "password checker.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\password checker.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\password checker.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\password checker.cpp*",
+              "RelativeToolTip": "Sandbox\\password checker.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T18:50:48.539Z",
+              "WhenOpened": "2025-09-17T14:16:33.991Z",
               "EditorCaption": ""
             },
             {
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Sandbox\\sandbox.cpp",
               "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp",
               "RelativeToolTip": "Sandbox\\sandbox.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-15T14:34:08.344Z",
               "EditorCaption": ""
