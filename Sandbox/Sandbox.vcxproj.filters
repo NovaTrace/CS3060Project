@@ -18,7 +18,10 @@
     <ClCompile Include="sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="password checker.cpp">
+    <ClCompile Include="file reading example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Class example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
