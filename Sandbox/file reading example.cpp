@@ -6,7 +6,7 @@ using namespace std;
 bool openFileIn(fstream&, string);
 void showContents(fstream&);
 
-int main()
+int notmain()
 {
 	fstream dataFile;
 

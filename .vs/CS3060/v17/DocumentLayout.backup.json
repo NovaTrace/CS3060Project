@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\file reading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw2 11.14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\hw2 11.14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\file reading example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\Class example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\Class example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw2 11.14.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw2 11.14.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\hw2 11.14.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw2 11.14.cpp",
+              "RelativeToolTip": "Sandbox\\hw2 11.14.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T19:46:25.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +65,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "file reading.cpp",
-              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\file reading.cpp",
-              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading.cpp*",
-              "RelativeToolTip": "Sandbox\\file reading.cpp*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Class example.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\Class example.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\Class example.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\Class example.cpp",
+              "RelativeToolTip": "Sandbox\\Class example.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T15:01:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file reading example.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading example.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\file reading example.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\file reading example.cpp",
+              "RelativeToolTip": "Sandbox\\file reading example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T14:18:54.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "sandbox.cpp",
               "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp",
               "RelativeDocumentMoniker": "Sandbox\\sandbox.cpp",
               "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp",
               "RelativeToolTip": "Sandbox\\sandbox.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-15T14:34:08.344Z",
               "EditorCaption": ""

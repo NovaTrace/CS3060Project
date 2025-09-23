@@ -69,7 +69,7 @@ public:
 	int getvalue() { return i; }
 };
 
-int main() {
+int notmain() {
 	int i = 47;
 	C1 o1;
 
