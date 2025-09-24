@@ -133,9 +133,18 @@ void displayInventory(Bin inventory[])
 {
 	cout << "\nCurrent Inventory:\n";
 	cout << "------------------\n";
+	int totalParts = 0;
 	for (int i = 0; i < SIZE; i++)
 	{
-		cout << left << setw(25) << setfill('.') << (to_string(i + 1) + ". " + inventory[i].item) << inventory[i].qty << endl;
+		totalParts += inventory[i].qty;
+		cout << left << setw(25) << setfill('.') << (to_string(i + 1) + ". " + inventory[i].item) << inventory[i].qty;
+		if (inventory[i].qty < 5)
+		{
+		cout << " ***LOW STOCK***";
+		}
+		cout << endl;
 	}
+	cout << "------------------\n\n";
+	cout << "Total parts in inventory: " << totalParts << endl;
 	cout << "------------------\n\n";
 }
