@@ -127,8 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Class example.cpp" />
-    <ClCompile Include="file reading example.cpp" />
     <ClCompile Include="hw2 11.14.cpp" />
     <ClCompile Include="sandbox.cpp" />
   </ItemGroup>
