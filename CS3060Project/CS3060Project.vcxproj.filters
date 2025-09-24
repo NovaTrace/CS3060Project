@@ -21,7 +21,7 @@
     <ClCompile Include="hw1 9.9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Sandbox\hw2 11.14.cpp">
+    <ClCompile Include="hw2 11.14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
