@@ -126,8 +126,8 @@ int inputValidation(int min, int max)
 }
 
 /**
-* Desplays the current inventory of bins
-* 
+* Displays the current inventory of bins
+* @param Bin inventory[] - the array of bins to display
 */
 void displayInventory(Bin inventory[])
 {
