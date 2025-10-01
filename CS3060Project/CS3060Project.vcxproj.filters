@@ -24,7 +24,19 @@
     <ClCompile Include="hw2 11.14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Sandbox\CHECKlab 12.11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sandbox\lab 12.15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\Sandbox\hw3 13.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sandbox\hw3 13.4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sandbox\lab 13.sonmething.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

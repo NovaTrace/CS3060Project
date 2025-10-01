@@ -18,8 +18,5 @@
     <ClCompile Include="sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hw3 13.4.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
