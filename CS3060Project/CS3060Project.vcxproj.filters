@@ -33,10 +33,10 @@
     <ClCompile Include="..\Sandbox\hw3 13.3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Sandbox\hw3 13.4.cpp">
+    <ClCompile Include="..\Sandbox\lab 13.sonmething.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Sandbox\lab 13.sonmething.cpp">
+    <ClCompile Include="..\Sandbox\hw3 13.4 oldVer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

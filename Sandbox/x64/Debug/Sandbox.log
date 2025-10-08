@@ -1,2 +1,79 @@
-﻿  lab 13.sonmething.cpp
-  Sandbox.vcxproj -> C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\x64\Debug\Sandbox.exe
+﻿  hw3 13.4 wip.cpp
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(58,19): error C3646: 'preset1': unknown override specifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(58,26): error C2059: syntax error: '{'
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(58,26): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(59,19): error C3646: 'preset2': unknown override specifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(59,26): error C2059: syntax error: '{'
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(59,26): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(83,4): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(83,20): error C2065: 'curStationName': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(84,4): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(84,25): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(85,4): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(85,20): error C2065: 'curType': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(86,4): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(86,21): error C2065: 'curGenre': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(89,4): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(89,20): error C2065: 'curStationName': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(90,4): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(90,25): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(91,4): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(91,20): error C2065: 'curType': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(92,4): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(92,21): error C2065: 'curGenre': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(102,4): error C2065: 'curStationName': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(102,21): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(103,4): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(103,19): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(104,4): error C2065: 'curType': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(104,14): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(105,4): error C2065: 'curGenre': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(105,15): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(108,4): error C2065: 'curStationName': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(108,21): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(109,4): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(109,19): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(110,4): error C2065: 'curType': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(110,14): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(111,4): error C2065: 'curGenre': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(111,15): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(119,34): error C2065: 'curStationName': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(120,28): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(120,51): error C2065: 'curType': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(121,25): error C2065: 'volume': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(123,27): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(123,57): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(124,11): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(124,39): error C2065: 'preset1': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(125,27): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(125,57): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(126,11): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(126,39): error C2065: 'preset2': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(129,20): error C2065: 'volume': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(130,22): error C2065: 'volume': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(131,23): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(132,25): error C2065: 'curFrequency': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(137,2): error C2065: 'RadioReciever': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(137,16): error C2146: syntax error: missing ';' before identifier 'myRadio'
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(137,16): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(138,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(139,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(140,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(141,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(142,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(143,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(144,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(147,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(148,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(149,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(152,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(153,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(154,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(155,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(156,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(159,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(160,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(163,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(164,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(165,2): error C2065: 'myRadio': undeclared identifier
+C:\Users\quinn\OneDrive\Documents\GitHub\CS3060\Sandbox\hw3 13.4 wip.cpp(166,2): error C2065: 'myRadio': undeclared identifier
