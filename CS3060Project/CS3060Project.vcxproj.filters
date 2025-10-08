@@ -39,5 +39,8 @@
     <ClCompile Include="..\Sandbox\hw3 13.4 oldVer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Sandbox\hw3 13.4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

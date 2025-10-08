@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4 wip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\hw3 13.4 wip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\hw3 13.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw2 11.14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|solutionrelative:CS3060Project\\hw2 11.14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|solutionrelative:Sandbox\\hw3 13.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "hw3 13.4 wip.cpp",
-              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4 wip.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\hw3 13.4 wip.cpp",
-              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4 wip.cpp*",
-              "RelativeToolTip": "Sandbox\\hw3 13.4 wip.cpp*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-08T04:57:09.162Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -40,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw3 13.3.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.3.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\hw3 13.3.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.3.cpp",
+              "RelativeToolTip": "Sandbox\\hw3 13.3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T07:27:41.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hw2 11.14.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw2 11.14.cpp",
+              "RelativeDocumentMoniker": "CS3060Project\\hw2 11.14.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\CS3060Project\\hw2 11.14.cpp",
+              "RelativeToolTip": "CS3060Project\\hw2 11.14.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T07:23:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw3 13.4.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\hw3 13.4.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp",
+              "RelativeToolTip": "Sandbox\\hw3 13.4.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T07:22:30.409Z",
+              "EditorCaption": ""
             }
           ]
         }

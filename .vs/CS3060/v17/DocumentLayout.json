@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "temp.cpp",
-              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\temp.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\temp.cpp",
-              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\temp.cpp",
-              "RelativeToolTip": "Sandbox\\temp.cpp",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-08T06:59:03.62Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
