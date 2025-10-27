@@ -42,5 +42,8 @@
     <ClCompile Include="..\Sandbox\hw3 13.4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Sandbox\Midterm Q36pp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
