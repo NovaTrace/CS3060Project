@@ -127,11 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FeetInches.cpp" />
     <ClCompile Include="sandbox.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="FeetInches.h" />
+    <ClCompile Include="TryCatchExample 16-1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
