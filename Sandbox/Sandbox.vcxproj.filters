@@ -18,7 +18,7 @@
     <ClCompile Include="sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TryCatchExample 16-1.cpp">
+    <ClCompile Include="TryCatchExample 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
