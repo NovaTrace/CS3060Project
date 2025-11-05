@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\TryCatchExample 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\16.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|solutionrelative:Sandbox\\hw3 13.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 16-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|solutionrelative:Sandbox\\TryCatchExample 16-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E959491-C792-40C5-9906-10F9AC9F0F83}|CS3060Project\\CS3060Project.vcxproj|solutionrelative:Sandbox\\16.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DFAEA36-2A9A-44F2-BD98-FA855B3E4AB2}|Sandbox\\Sandbox.vcxproj|C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +46,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TryCatchExample 2.cpp",
-              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 2.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\TryCatchExample 2.cpp",
-              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 2.cpp*",
-              "RelativeToolTip": "Sandbox\\TryCatchExample 2.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TryCatchExample 16-1.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 16-1.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\TryCatchExample 16-1.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\TryCatchExample 16-1.cpp",
+              "RelativeToolTip": "Sandbox\\TryCatchExample 16-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-03T15:47:43.636Z",
+              "WhenOpened": "2025-11-05T04:58:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "16.3.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.3.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\16.3.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.3.cpp",
+              "RelativeToolTip": "Sandbox\\16.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T03:21:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "16.7.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.7.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\16.7.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\16.7.cpp",
+              "RelativeToolTip": "Sandbox\\16.7.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T03:21:17.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "hw3 13.4.cpp",
+              "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\hw3 13.4.cpp",
+              "ToolTip": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\hw3 13.4.cpp",
+              "RelativeToolTip": "Sandbox\\hw3 13.4.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T01:57:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "sandbox.cpp",
               "DocumentMoniker": "C:\\Users\\quinn\\OneDrive\\Documents\\GitHub\\CS3060\\Sandbox\\sandbox.cpp",
               "RelativeDocumentMoniker": "Sandbox\\sandbox.cpp",
@@ -55,7 +106,8 @@
               "RelativeToolTip": "Sandbox\\sandbox.cpp",
               "ViewState": "AgIAAMYAAAAAAAAAAAAAAOUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-03T15:17:34.255Z"
+              "WhenOpened": "2025-11-03T15:17:34.255Z",
+              "EditorCaption": ""
             }
           ]
         }
